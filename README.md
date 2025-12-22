@@ -9,7 +9,7 @@ FrontEnd / Cloudflare
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-orange)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ErpanOmer&show_icons=true)
+<image src="https://readmestats.999857.xyz/api/top-langs/?username=ErpanOmer&layout=compact" />
 
 **📫 How to reach me:**
 
