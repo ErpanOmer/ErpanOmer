@@ -1,5 +1,5 @@
 <p align="center">
-  <image width="500" src="https://cdn.shopify.com/s/files/1/0583/5810/4213/files/8b116889-af12-4694-afa0-08a9a5919a62.webp?v=1766544591&width=600" />
+  <image width="400" src="https://cdn.shopify.com/s/files/1/0583/5810/4213/files/8b116889-af12-4694-afa0-08a9a5919a62.webp?v=1766544591&width=600" />
 </p>
 
 ## 👨‍💻 About Me
