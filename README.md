@@ -1,6 +1,4 @@
-<p align="center">
-  <image width="350" src="https://cdn.shopify.com/s/files/1/0583/5810/4213/files/8b116889-af12-4694-afa0-08a9a5919a62.webp?v=1766544591&width=600" />
-</p>
+![OpenReadme](https://raw.githubusercontent.com/ravixalgorithm/openreadme-images/main/profiles/ae60a922d432.png)
 
 ## 👨‍💻 About Me
 
