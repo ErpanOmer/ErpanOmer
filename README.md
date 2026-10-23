@@ -1,5 +1,3 @@
-![OpenReadme](https://raw.githubusercontent.com/ravixalgorithm/openreadme-images/main/profiles/ae60a922d432.png)
-
 ## 👨‍💻 About Me
 
 我是一名 **资深 Web 前端工程师**，长期深耕于前端工程体系，目前主要方向是 **Shopify 独立站开发**。 
